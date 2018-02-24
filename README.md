@@ -1,6 +1,6 @@
 # Demo de clase
 
-prueba de creacion
+prueba de creacion - modificado
 
 este es una palabra  en **negrita**
 
@@ -34,7 +34,10 @@ este es otro texto. Ejemplo de codigo en python
 
 ## Seccion 3
 
-haga click [aqui(http://wwww.google.com)
-
+haga click (wwww.google.com)
 
 Este es otro texto mas
+
+## seccion 4
+
+una nueva seccion 4
